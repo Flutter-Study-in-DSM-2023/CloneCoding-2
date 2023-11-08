@@ -7,10 +7,12 @@
 - 모집의뢰서 디테일 퍼블리싱
 
 ## 김은오
-### ~~~
-</이미지>
+### Xquare 홈 스크린
+<img width="372" alt="Screenshot 2023-11-08 at 10 31 12 PM" src="https://github.com/Flutter-Study-in-DSM-2023/CloneCoding-2/assets/103027173/1650c3a7-5dc6-44a7-b1d7-ef72a87e086c">
+
 
 ### 할 일
+- row -> listview로 바꾸기
 
 ## 서예린
 ### ~~~
