@@ -19,7 +19,8 @@
 ### 할 일
 
 ## 유지우
-### ~~~
-</이미지>
+### XQUARE
+<img width="250" alt="스크린샷" src="https://github.com/Flutter-Study-in-DSM-2023/CloneCoding-2/assets/117673815/8dd793d1-abbc-43a0-a843-8d377d862564">
 
 ### 할 일
+- 나머지 스크린 구현
